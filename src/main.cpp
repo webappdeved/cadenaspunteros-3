@@ -11,7 +11,7 @@ int main() {
     // Modifiquen la salida agregando su Nombre y Apellido reales.
     // ====================================================================
     cout << "=====================================================" << endl;
-    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Leonel De Armas " << endl;
+    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Leonel De Armas " << endl; NO FIGURA EL NOMBRE DEL ESTUDIANTE DUEŃO DEL REPOSITORIO PERSONAL
     cout << "=====================================================" << endl;
 
     cout << "=> Ingrese su edad: ";
